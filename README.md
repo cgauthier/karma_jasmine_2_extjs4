@@ -86,7 +86,7 @@ You should be able to adjust the index.html page to point to your version of Ext
 It is recommended you use a webserver to serve your ExtJS application.  Setup something with Apache, IIS or whatever you are most comfortable with.  You can always check out the XAMPP application which is probably the easiest way to get a web server up and running.
 https://www.apachefriends.org/index.html
 
-I will be assuming you have your app at a root folder of a web server folder such as: htdocs/karma_jasmine_extjs_demo folder.
+I will be assuming you have your app at a root folder of a web server folder such as: htdocs/karma_jasmine_2_extjs4 folder.
 
 The file you downloaded also contains the tests and the setup for the tests.  We will review those later in the document.
 
