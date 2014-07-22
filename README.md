@@ -283,6 +283,6 @@ With that, I've got this list below, anyone with expertise on these topics are w
 
 1. Karma: why do I have to set <code>urlRoot: /base/</code>?
 2. Karma: why I'm forced to hardcode my <code>basePath</code> to my logical drive and file system?
-3. Jasmine: Is there a way to improve <code>waitsFor</code> for Ajax calls?
+3. Jasmine: Is there a way bring back and improve <code>waitsFor</code> for Ajax calls?
 4. Jasmine: the done() method and the techniques to test Async calls do not apply very well to ExtJS, wouldn't it better to bring back the waitsFor/runs combo and let testers choose which works best.  There are comments made by Sencha staff online specifically saying that ExtJS 5.0 won't be implementing Promises/Deferred, especially to their Store/Model implementation.
 
