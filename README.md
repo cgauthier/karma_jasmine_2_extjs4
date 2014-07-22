@@ -275,7 +275,7 @@ singleRun: false // set this to false for debugging
 
 ## Conclusion
 
-Testing ExtJS isn't as straight forward as it would seem.  However, the app-tests/example should provide enough for anyone to test ExtJS 4.x and even 5.x correctly using Karma with Jasmine 1.x.
+Testing ExtJS isn't as straight forward as it would seem.  However, the app-tests/example should provide enough for anyone to test ExtJS 4.x and even 5.x correctly using Karma with Jasmine 2.0.
 
 It is highly possible that I might not be correct in using these technologies, or there are some bugs which could be resolved.
 
