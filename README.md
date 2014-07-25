@@ -241,7 +241,7 @@ Ext.Loader.setConfig({
 </pre>
 
 Once the test is launched, you will see a lot of information in your command window.  
-If everything went well with your installation, you will have a statement towards the end displaying: <code>Executed 4 of 4 SUCCESS.</code>
+If everything went well with your installation, you will have a statement towards the end displaying: <code>Executed 5 of 5 SUCCESS.</code>
 
 2 new folders will be added to your project <code>karma_dir</code> and <code>coverage</code>.
 
